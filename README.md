@@ -39,7 +39,7 @@ Memory refers to persisting state between calls of a chain/agent. LangChain prov
 
 ## What we built
 
-Here, we are  building  a streamlit app to create and explore prompts and chains in LangChain library.
+Here, we are  building  a streamlit app to create and explore prompts and chains in [LangChain](https://python.langchain.com/en/latest/)library.
 
 This streamlit app is used to give the response about the  celebrity , his date of birth  and give 5 major events happened around his dob in the world by taking the celebrity name as Prompt.
 
