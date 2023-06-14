@@ -1,4 +1,4 @@
-#🦜️🔗 LangChain
+# 🦜️🔗 LangChain
 
 Large language models (LLMs) are emerging as a transformative technology, enabling developers to build applications that they previously could not. However, using these LLMs in isolation is often insufficient for creating a truly powerful app - the real power comes when you can combine them with other sources of computation or knowledge.
 
@@ -44,6 +44,10 @@ Here, we are  building  a streamlit app to create and explore prompts and chains
 This streamlit app is used to give the response about the  celebrity , his date of birth  and give 5 major events happened around his dob in the world by taking the celebrity name as Prompt.
 
 To run the streamlit app:
+```bash
+cd Langchain
+```
+
 ```bash
 streamlit run CelebritySearchResults.py
 ```
