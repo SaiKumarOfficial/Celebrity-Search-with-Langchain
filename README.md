@@ -37,4 +37,14 @@ Memory refers to persisting state between calls of a chain/agent. LangChain prov
 [BETA] Generative models are notoriously hard to evaluate with traditional metrics. One new way of evaluating them is using language models themselves to do the evaluation. LangChain provides some prompts/chains for assisting in this.
 
 
+## What we built
+
+Here, we are  building  a streamlit app to create and explore prompts and chains in LangChain library.
+
+This streamlit app is used to give the response about the  celebrity , his date of birth  and give 5 major events happened around his dob in the world by taking the celebrity name as Prompt.
+
+To run the streamlit app:
+```bash
+streamlit run CelebritySearchResults.py
+```
 For more information on these topics, you can follow this [documentation](https://python.langchain.com/en/latest/).
